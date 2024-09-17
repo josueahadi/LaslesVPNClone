@@ -1,8 +1,8 @@
 # LaslesVPN
 A landing page design with Tailwind CSS <br>
 ### Get Started
-1. git clone https://github.com/josueahadi/gaming-site-clone.git
+1. Download this repo
 
-2. Run ```npm install```
+2. In the project folder, run ```npm install```
 
     This command will download all dependencies defined in the package. json file and generates a node_modules folder with the installed modules.
